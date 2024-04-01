@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+
 public enum ColorType { Blu, Red, Green };
 
 public class Player : Character
 {
 
-    [SerializeField] public Transform posStart;
+    
     PlayerInput playerInput;
     InputAction moveAction;
      bool moving = false;
@@ -31,12 +32,16 @@ public class Player : Character
         {
             MovePlayer();
         }
-     
 
+        else
+        {
+            Init();
+        }
+        
     }
     public void Init()
     {
-        transform.position = posStart.position;
+        transform.position = GameManager.Ins.posStart.position;
     }
    
     private void  MovePlayer( )

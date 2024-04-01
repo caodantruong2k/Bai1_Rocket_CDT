@@ -6,21 +6,18 @@ using UnityEngine;
 public class GameManager : Singleton< GameManager>
 {
 
-    
+    [SerializeField] public Transform posStart;
     [SerializeField]public TextMeshProUGUI textScore;
 
     private int score;
-   public bool game = true;
+   public bool game = false;
     void Start()
     {
         UIManager.Ins.Menugame();
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
      
   public  void Init()
     {
@@ -28,6 +25,7 @@ public class GameManager : Singleton< GameManager>
         Ground.Instance.Init();
         LiveText();
         game = true;
+
 
     }
 
@@ -51,6 +49,13 @@ public class GameManager : Singleton< GameManager>
         Ground.Instance.DestroySphere();
 
     }
+    public void Dead()
+    {
+        UIManager.Ins.Fail();
+        game = false;
+        Ground.Instance.DestroySphere();
+    }
+
 
 
 }

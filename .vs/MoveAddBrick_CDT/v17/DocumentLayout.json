@@ -3,51 +3,51 @@
   "WorkspaceRootPath": "D:\\Unity Hb\\MoveAddBrick_CDT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\canvanssetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvanssetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\canvansfail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvansfail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\canvansmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvansmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\canvanssetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvanssetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\canvansfail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvansfail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\canvansvictory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvansvictory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\canvansmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvansmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\pool2\\pool\\gameunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\pool2\\pool\\gameunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\canvansvictory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvansvictory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\canvansgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\canvansgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\canvansgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,7 +63,7 @@
       "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|d:\\unity hb\\moveaddbrick_cdt\\assets\\game\\scripts\\iu manager\\uicanvans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|D:\\Unity Hb\\MoveAddBrick_CDT\\assets\\game\\scripts\\iu manager\\uicanvans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3299651-9150-D974-56E1-F8471802D28B}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\iu manager\\uicanvans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -86,24 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
-              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
-              "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
-              "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T13:10:55.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CanvansMainmenu.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\CanvansMainmenu.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\IU Manager\\CanvansMainmenu.cs",
@@ -111,18 +98,17 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\CanvansMainmenu.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T11:33:34.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T11:33:34.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CanvansFail.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\CanvansFail.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\IU Manager\\CanvansFail.cs",
               "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\CanvansFail.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\CanvansFail.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T11:27:40.812Z",
               "EditorCaption": ""
@@ -142,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Ground.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\Ground.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Ground.cs",
@@ -155,46 +141,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwDIAAAAoAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T07:28:17.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player.cs",
               "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\Player.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwCQAAAAWAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T09:40:33.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Character.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Character.cs",
               "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\Character.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\Character.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDIAAAApAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:23:13.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "GameUnit.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\Pool2\\Pool\\GameUnit.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Pool2\\Pool\\GameUnit.cs",
@@ -202,18 +188,17 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\Pool2\\Pool\\GameUnit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T05:51:31.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T05:51:31.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\IU Manager\\UIManager.cs",
               "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\UIManager.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\UIManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T11:13:42.449Z",
               "EditorCaption": ""
@@ -228,21 +213,32 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\CanvansGame.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T11:10:58.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T11:10:58.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "CanvansVictory.cs",
               "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\CanvansVictory.cs",
               "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\IU Manager\\CanvansVictory.cs",
               "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\CanvansVictory.cs",
               "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\CanvansVictory.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T11:32:36.38Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
+              "ToolTip": "D:\\Unity Hb\\MoveAddBrick_CDT\\Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:10:55.455Z"
             },
             {
               "$type": "Document",
@@ -254,8 +250,7 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\Pool2\\Pool\\PoolControler.cs",
               "ViewState": "AQIAAIMAAAAAAAAAAAAUwJsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T05:53:13.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T05:53:13.099Z"
             },
             {
               "$type": "Document",
@@ -267,8 +262,7 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\Pool2\\Pool\\SimplePool.cs",
               "ViewState": "AQIAADMBAAAAAAAAAAAcwDcBAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T05:50:09.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T05:50:09.522Z"
             },
             {
               "$type": "Document",
@@ -280,8 +274,7 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\Sphere.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAYwDYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T06:12:59.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T06:12:59.329Z"
             },
             {
               "$type": "Document",
@@ -293,8 +286,7 @@
               "RelativeToolTip": "Assets\\Game\\Scripts\\IU Manager\\UICanvans.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAgwC8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T09:38:19.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T09:38:19.128Z"
             },
             {
               "$type": "Document",

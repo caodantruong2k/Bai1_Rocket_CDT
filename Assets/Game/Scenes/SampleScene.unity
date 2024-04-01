@@ -615,7 +615,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1814138336}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &152756571
@@ -630,6 +631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80328f08d62f840469fae0e2f002e99f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  posStart: {fileID: 1814138336}
   textScore: {fileID: 393752418}
   game: 1
 --- !u!1 &181587898
@@ -5464,11 +5466,11 @@ Transform:
   m_GameObject: {fileID: 1814138335}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -2.2}
+  m_LocalPosition: {x: 0, y: 1.1, z: -14.01}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1880736040}
+  m_Father: {fileID: 152756570}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1880736034
 GameObject:
@@ -5537,7 +5539,6 @@ MonoBehaviour:
   meshRenderer: {fileID: 311504109}
   colorData: {fileID: 11400000, guid: 16a75187803e4534bb86241619f95ef6, type: 2}
   speed: 5
-  posStart: {fileID: 1814138336}
 --- !u!136 &1880736037
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5575,7 +5576,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 311504111}
-  - {fileID: 1814138336}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &1880736041

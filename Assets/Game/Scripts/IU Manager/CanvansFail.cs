@@ -19,7 +19,7 @@ public class CanvansFail : MonoBehaviour
     
     private void Retry()
     {
-        UIManager.Ins.PlayeGame();
+         UIManager.Ins.PlayeGame();
 
          GameManager.Ins.Init();
     }

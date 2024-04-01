@@ -43,7 +43,7 @@ public class Character : ColorObject
     }
     private void Dead()
     {
-        Debug.Log(Constant.TAG_Sphere);
+        GameManager.Ins.Dead(); 
 
     }
    IEnumerator  DelaySpawn(Vector3 pos)
