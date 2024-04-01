@@ -59,29 +59,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Game\Scripts\IU Manager\CanvansGame.cs" />
-    <Compile Include="Assets\Game\Scripts\CameraFL.cs" />
+    <Compile Include="Assets\Game\Scripts\GamePlay\GameManager.cs" />
     <Compile Include="Assets\Game\Scripts\Pool\SimplePool.cs" />
-    <Compile Include="Assets\Game\Scripts\Ground.cs" />
-    <Compile Include="Assets\Game\Scripts\Character.cs" />
+    <Compile Include="Assets\Game\Scripts\GamePlay\CameraFL.cs" />
     <Compile Include="Assets\Game\Scripts\IU Manager\UIManager.cs" />
     <Compile Include="Assets\Game\ScriptableObject\ColorData.cs" />
     <Compile Include="Assets\Game\Scripts\IU Manager\CanvansSetting.cs" />
-    <Compile Include="Assets\Game\Scripts\Sphere.cs" />
     <Compile Include="Assets\Game\Scripts\Pool2\Pool\PoolControler.cs" />
     <Compile Include="Assets\Game\Scripts\Pool\Constant.cs" />
     <Compile Include="Assets\Game\Scripts\Pool2\Pool\SimplePool.cs" />
-    <Compile Include="Assets\Game\Scripts\Player.cs" />
+    <Compile Include="Assets\Game\Scripts\GamePlay\Player.cs" />
     <Compile Include="Assets\Game\Scripts\IU Manager\CanvansMainmenu.cs" />
     <Compile Include="Assets\Game\Scripts\Pool2\Pool\GameUnit.cs" />
+    <Compile Include="Assets\Game\Scripts\GamePlay\Ground.cs" />
     <Compile Include="Assets\Game\Scripts\IU Manager\UICanvans.cs" />
-    <Compile Include="Assets\Game\Scripts\ColorObject.cs" />
     <Compile Include="Assets\Game\Scripts\IU Manager\CanvansFail.cs" />
+    <Compile Include="Assets\Game\Scripts\GamePlay\Sphere.cs" />
     <Compile Include="Assets\Game\Scripts\Pool2\Pool\MiniPool.cs" />
+    <Compile Include="Assets\Game\Scripts\GamePlay\ColorObject.cs" />
     <Compile Include="Assets\Game\Scripts\IU Manager\CanvansVictory.cs" />
+    <Compile Include="Assets\Game\Scripts\GamePlay\Character.cs" />
     <Compile Include="Assets\Game\Scripts\IU Manager\Singleton.cs" />
     <Compile Include="Assets\Game\Scripts\Pool2\Pool\ParticlePool.cs" />
     <Compile Include="Assets\Game\Scripts\Pool\PoolControl.cs" />
-    <Compile Include="Assets\Game\Scripts\GameManager.cs" />
     <Compile Include="Assets\Game\Scripts\Pool\Cache.cs" />
   </ItemGroup>
   <ItemGroup>
